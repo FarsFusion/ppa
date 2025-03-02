@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Sun, 02 Mar 2025 19:17:02 +0000
+MD5Sum:
+ afcfbcbf1a67d2aa14ad099ee14db73a              618 Packages
+ b8cca4d0ea98bd8344d60c8e0dc21d51              450 Packages.gz
+ af58143e11ec72015c7fa2b8a0ccde9c               38 Release
+SHA1:
+ 6677650604ad3baa4d6e71ce0a1b0778dfd671bc              618 Packages
+ 06b6ff7d0237d743caacbeb7b7fffe6652308896              450 Packages.gz
+ 93833dee1a28159384e6a00eaff50450f44f356d               38 Release
+SHA256:
+ 99a57f286baffe7a91510245d8169c0289ad595e5458eade84c6268b63e54842              618 Packages
+ afbfe58b7705e10ecab344be060ff879acdcb14d963429ee03231457e9c313bb              450 Packages.gz
+ 2025c0ba69fe08236bf1beb2f74b9e90762c6824abeb2d00bacb6c7664e62675               38 Release
+SHA512:
+ d456a8fc234a5e3677e293e097ba7ee924a237edd3da8848675a953af04050c977766f32eb296f67f7a422d8277aa8e09411bc7df1534a66ff1de8b087b8e4b7              618 Packages
+ 85b8709d6802b1c3db15f894a1250b5dac19ad15f67f1961cb0a1a786ee21c65c733aca5e9b8f7ed160555b9b1b32ebf36c6e58b390aa4b1b28f795fb873a2c8              450 Packages.gz
+ f97b62e9aea633c918323b9567c91c6381faa2f0365b73ddd2ba6a31d5a99714e0f565a553275bbaf11ddf353e50bfb98b5055aa03c0a6fa376c1219b3173700               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEPdg2Z9FPyz4enneUyPwGB9t6qigFAmfErq4ACgkQyPwGB9t6
+qiixnw//RdYvcHR5S76lcv37FnGtsgJFEXEX+YFbZ32mNrdRbe40c9RpVCgR4ViY
+RqdELxFVXBKzdP2RW2ii9ev1fLI6qgBMzIT7h/QCz4fRnpRwvMHOPWvJS2uNLzuH
+7x5L4uv28WilFmFMzxu5QKOLESp8parIV2nErX+3IAAnelv5USKWKRgBOCbhsCYv
+zt6udBfB5eeXSJT32AXzhdLQRQQ/BOb+6FEc6NRF0cuH5eGnAvv5xQqBaxCIXnUC
+L2UlvRP/yknqXUii0BTlXQ1krxFf2Y7ZtpGpcMgBlz0rNRXUitlJg0wb/J40pu/k
+1oIwWYNc0ygEPF0eGhBH0GfH6d0aS2WCHpRUm71+2bBDMgqW0CVwnMME8u++VdXZ
+LFxI5xvlGKG0CFgS8zJrCskQV2T2ssz8LPC6PERF7EvvIIlmCMITVUBzZG4jftL8
+32VZ8G7GyimYedlWZFhpwsJRuf9pQMMGlautYJLHq7DLlvnZd+mFA4X1XG4V24vz
+vRXSJb8K7xMQGYk8o81Ur32JWfMxKTf2ki4NeEzKcqncDoZr/iaEKp+JInQttvJx
+9CtEACF477bd94WpMGhCzUOiTu5naQnHkbzVhvVbjQe6KuMuddhY1NVbfvHxiD+9
+nykokFDycl9RBNZIhuhsLNedni7hEQ0ufoupX13Z3j5Wd3bicsI=
+=qLr2
+-----END PGP SIGNATURE-----
