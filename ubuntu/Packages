@@ -23,10 +23,10 @@ Maintainer: Pooulad poooooladi@gmail.com
 Depends: bash, pv, fzf
 Recommends: libimage-exiftool-perl
 Filename: ./cyruspass_0.0.2.deb
-Size: 348940
-MD5sum: 51e926b859a4bb675e67d72d5778f2b1
-SHA1: 7acd1cbb44e90db26680ff62184cf9d0e7b334d7
-SHA256: edb4cc86e7e61974e5b99f2702fac2b0efb1fa4e666704660987c77f5df2957a
+Size: 453744
+MD5sum: 600ec809e1bbc1c3be4c81f6acd86343
+SHA1: 5af3ac02694fc8ab36feaa1a502f1b8b55b865c9
+SHA256: 187ad361f0bb4d49d03d4abb40911ff36fc1e1fbcf574a9502602f13afa85a50
 Section: utils
 Priority: optional
 Description: Secure password generator inspired by Cyrus the Great
